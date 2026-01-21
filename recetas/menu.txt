@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 Pizza
 
 Pizza is an Italian dish typically consisting of a flat base of leavened 
 wheat-based dough topped with tomato, cheese, and other ingredients, baked at 
 a high temperature, traditionally in a wood-fired oven.
-=======
 Pasta
 
 Pasta is a type of food typically made from an unleavened dough of wheat flour 
@@ -14,4 +12,7 @@ definition has been expanded to include alternatives for a gluten-free diet, suc
 as rice flour, or legumes such as beans or lentils. Pasta is believed to have 
 developed independently in Italy and is a staple food of Italian cuisine, with 
 evidence of Etruscans making pasta as early as 400 BCE in Italy.
->>>>>>> nuevas-recetas
+
+Tacos al pastor
+El taco al pastor es un taco de carne adobada de puerco con piña originario de la 
+Ciudad de México.
